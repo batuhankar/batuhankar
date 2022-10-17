@@ -23,8 +23,8 @@ I am a Software Maintenance Technician from  <img src="https://statics.vestel.co
 
 - :telescope: I’m working as a Software Maintenance Technician.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Java.
 
 - :zap: In my free time, I play game.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BatuhanKartal-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BatuhanKartal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/batuhankartal/)
