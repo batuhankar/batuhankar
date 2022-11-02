@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500"/>
-  <h1 align="center">
-    Batuhan Kartal
+  <h1 align="center" style="font-family: Consolas">
+    <code>Batuhan Kartal</code>
   <h1>
   <p>
     My Social Accounts
