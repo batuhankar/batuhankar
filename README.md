@@ -24,8 +24,7 @@ I am a Software Maintenance Technician from  <img src="https://statics.vestel.co
 - :telescope: I’m working as a Software Maintenance Technician.
 
 - :seedling: Exploring 
-  - ![php](https://badgen.net/badge/PHP/3W/blue?icon=php)
-  - ![php](https://badgen.net/badge/JAVA/2W/orange?icon=java)
+  - ![js](https://badgen.net/badge/js/3W/blue?icon=js)
 
 - :zap: In my free time, I play game.
 
